@@ -41,8 +41,8 @@ bower_components
 build/Release
 
 #images
-uploads/
-uploads/resized/*
+uploads/*
+!uploads/resized
 
 # Dependency directories
 node_modules/
