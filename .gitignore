@@ -43,6 +43,7 @@ build/Release
 #images
 uploads/*
 !uploads/resized
+uploads/resized/*
 
 # Dependency directories
 node_modules/
